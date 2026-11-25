@@ -36,7 +36,7 @@
     {
       "id": "shot_02",
       "duration_seconds": 7,
-      "narration_amharic": "የአባቴ ቢሮ ከቤታችን ቅርብ ነበር። ከእሱ ጋር መሄድ ስለምፈልግ ጭቅጭቅ አደርግ ነበር።",
+      "narration_amharic": "የአባቴ ቢሮ ከቤታችን ቅርብ ነበር። ሁልጊዜም ከእሱ ጋር መሄድ እፈልግ ነበር።",
       "subtitle_english": "My father's office was close to our home, and I would insist on going with him.",
       "visual_prompt": "A young Ethiopian girl eagerly asking to accompany her father to his nearby office, then walking happily beside him through an ordinary Ethiopian neighborhood, warm natural daylight, realistic cinematic style.",
       "motion_prompt": "Father and daughter walk slowly together while the camera gently follows.",
@@ -55,7 +55,8 @@
 
     {
       "id": "shot_04",
-      "duration_seconds": 8,
+      "duration_seconds": 9,
+      "pause_after_seconds": 1.2,
       "narration_amharic": "አይ፣ የልጅነት ነገር! በጉጉት የምጠብቀው ሻይና ዶናት ነበር። አሁንም ጣዕሙ ይሰማኛል።",
       "subtitle_english": "Ah, childhood! What I eagerly waited for was tea and donuts. Even now, I can remember the taste.",
       "visual_prompt": "An Ethiopian father sharing tea and a donut with his young daughter inside his office, daughter visibly delighted, tea cup and donut clearly visible, intimate childhood memory, warm nostalgic cinematic lighting.",
@@ -65,9 +66,9 @@
 
     {
       "id": "shot_05",
-      "duration_seconds": 7,
-      "narration_amharic": "ትምህርት ላይ የደከምኩ ሲመስለው ይረዳኛል፣ ይመክረኛል። ጮክ ብሎ ሲያወራኝ ግን አላውቅም።",
-      "subtitle_english": "When he felt I was struggling at school, he helped and guided me. I never knew him to speak harshly to me.",
+      "duration_seconds": 7.5,
+      "narration_amharic": "ትምህርት ላይ የደከምኩ ሲመስለው ይረዳኛል፣ ይመክረኛል። ጮክ ብሎ ግን አናግሮኝ አያውቅም።",
+      "subtitle_english": "When he felt I was struggling at school, he helped and guided me. I don't remember him ever speaking to me harshly.",
       "visual_prompt": "An Ethiopian father calmly sitting beside his young daughter with schoolbooks and notebooks, patiently helping her study, daughter relaxed and comfortable rather than afraid, warm evening light, realistic cinematic scene.",
       "motion_prompt": "Father gently points toward the notebook as his daughter listens, subtle camera push-in.",
       "music_mood": "gentle, thoughtful, reassuring"
@@ -95,7 +96,7 @@
 
     {
       "id": "shot_08",
-      "duration_seconds": 9,
+      "duration_seconds": 8,
       "narration_amharic": "ለኔ ከባዱ ጊዜ አባቴ ለፊልድ ሥራ ሲሄድ ነበር። አንዳንዴ አልጋዬ ውስጥ ተደብቄ አለቅስ ነበር።",
       "subtitle_english": "The hardest times for me were when my father left for fieldwork. Sometimes I would hide in my bed and cry.",
       "visual_prompt": "A young Ethiopian girl lying quietly in bed while her father is away for fieldwork, missing him deeply, restrained sadness, modest family bedroom, soft evening light, emotional cinematic realism.",
@@ -105,7 +106,7 @@
 
     {
       "id": "shot_09",
-      "duration_seconds": 7,
+      "duration_seconds": 6.5,
       "narration_amharic": "ሲመለስ ግን የሚሰማኝ ደስታ፣ ዓለም የኔ ብቻ የሆነች ነበር የሚመስለኝ።",
       "subtitle_english": "But when he returned, I was so happy that it felt as if the whole world were mine.",
       "visual_prompt": "An Ethiopian father returning home from fieldwork as his young daughter joyfully welcomes him, genuine excitement and emotional reunion, father smiling warmly, warm late-afternoon light, cinematic realism.",

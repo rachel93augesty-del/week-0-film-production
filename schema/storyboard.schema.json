@@ -33,6 +33,10 @@
           "minimum": 60,
           "maximum": 90
         },
+        "pause_after_seconds": {
+  "type": "number",
+  "minimum": 0
+},
         "aspect_ratios": {
           "type": "array",
           "items": {
