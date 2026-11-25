@@ -1,0 +1,145 @@
+{
+  "project": {
+    "title": "For Me, My Father Was Care",
+    "narration_language": "Amharic",
+    "subtitle_language": "English",
+    "target_duration_seconds": 89,
+    "aspect_ratios": [
+      "16:9",
+      "9:16"
+    ],
+    "visual_style": "Warm, realistic and nostalgic Ethiopian childhood memories. Natural lighting, intimate family atmosphere, gentle expressions, modest everyday clothing, cinematic realism."
+  },
+
+  "characters": {
+    "father": {
+      "description": "A fictionalized Ethiopian father inspired by real childhood memories. Middle-aged, warm expression, gentle manner, modest everyday clothing, calm and caring presence.",
+      "use_real_likeness": false
+    },
+    "daughter": {
+      "description": "A fictionalized young Ethiopian girl representing the storyteller during childhood. Curious, cheerful, expressive and strongly attached to her father, wearing simple everyday childhood clothing.",
+      "use_real_likeness": false
+    }
+  },
+
+  "shots": [
+    {
+      "id": "shot_01",
+      "duration_seconds": 7,
+      "narration_amharic": "በጣም ከውስጤ የቀሩ የልጅነት ትዝታዎች፣ ምናልባት ለሌሎች ትንሽ የሚመስሉ ናቸው።",
+      "subtitle_english": "Some of my strongest childhood memories may seem like small things to others.",
+      "visual_prompt": "A young Ethiopian girl spending a quiet, warm moment with her father at home, intimate father-daughter relationship, natural expressions, realistic Ethiopian family setting, soft warm light, nostalgic cinematic atmosphere.",
+      "motion_prompt": "Very slow camera push toward father and daughter with minimal natural movement.",
+      "music_mood": "warm, intimate, nostalgic"
+    },
+
+    {
+      "id": "shot_02",
+      "duration_seconds": 7,
+      "narration_amharic": "የአባቴ ቢሮ ከቤታችን ቅርብ ነበር። ከእሱ ጋር መሄድ ስለምፈልግ ጭቅጭቅ አደርግ ነበር።",
+      "subtitle_english": "My father's office was close to our home, and I would insist on going with him.",
+      "visual_prompt": "A young Ethiopian girl eagerly asking to accompany her father to his nearby office, then walking happily beside him through an ordinary Ethiopian neighborhood, warm natural daylight, realistic cinematic style.",
+      "motion_prompt": "Father and daughter walk slowly together while the camera gently follows.",
+      "music_mood": "warm, playful, nostalgic"
+    },
+
+    {
+      "id": "shot_03",
+      "duration_seconds": 7,
+      "narration_amharic": "እሱም “አልወስድሽም” አይለኝም። አብሬው እሄድና፣ ከጎኑ ተቀምጬ ሲሰራ አየው ነበር።",
+      "subtitle_english": "He wouldn't say no. I would go with him, sit beside him, and watch him work.",
+      "visual_prompt": "Inside a modest Ethiopian office, a young girl sits happily beside her father's chair watching him work, comfortable and included in his world, subtle office activity in the background, warm realistic cinematic style.",
+      "motion_prompt": "Subtle office activity with a gentle slow camera movement toward father and daughter.",
+      "music_mood": "safe, intimate, warm"
+    },
+
+    {
+      "id": "shot_04",
+      "duration_seconds": 8,
+      "narration_amharic": "አይ፣ የልጅነት ነገር! በጉጉት የምጠብቀው ሻይና ዶናት ነበር። አሁንም ጣዕሙ ይሰማኛል።",
+      "subtitle_english": "Ah, childhood! What I eagerly waited for was tea and donuts. Even now, I can remember the taste.",
+      "visual_prompt": "An Ethiopian father sharing tea and a donut with his young daughter inside his office, daughter visibly delighted, tea cup and donut clearly visible, intimate childhood memory, warm nostalgic cinematic lighting.",
+      "motion_prompt": "Gentle close-up movement toward the tea, donut and daughter's happy expression.",
+      "music_mood": "light, joyful, nostalgic"
+    },
+
+    {
+      "id": "shot_05",
+      "duration_seconds": 7,
+      "narration_amharic": "ትምህርት ላይ የደከምኩ ሲመስለው ይረዳኛል፣ ይመክረኛል። ጮክ ብሎ ሲያወራኝ ግን አላውቅም።",
+      "subtitle_english": "When he felt I was struggling at school, he helped and guided me. I never knew him to speak harshly to me.",
+      "visual_prompt": "An Ethiopian father calmly sitting beside his young daughter with schoolbooks and notebooks, patiently helping her study, daughter relaxed and comfortable rather than afraid, warm evening light, realistic cinematic scene.",
+      "motion_prompt": "Father gently points toward the notebook as his daughter listens, subtle camera push-in.",
+      "music_mood": "gentle, thoughtful, reassuring"
+    },
+
+    {
+      "id": "shot_06",
+      "duration_seconds": 6,
+      "narration_amharic": "በማየት ብቻ የጎደለብኝን ይገነዘብና ትኩረት ይሰጠኝ ነበር።",
+      "subtitle_english": "He could notice what I was missing just by looking at me, and he would give me the attention I needed.",
+      "visual_prompt": "Quiet evening in an Ethiopian family home, a caring father notices his young daughter needs attention and responds gently, intimate parent-child connection, soft warm lighting, realistic cinematic atmosphere.",
+      "motion_prompt": "Father gently notices his daughter and moves closer, with slow and calm camera movement.",
+      "music_mood": "tender, intimate, reflective"
+    },
+
+    {
+      "id": "shot_07",
+      "duration_seconds": 10,
+      "narration_amharic": "እንክብካቤዎቹ አእምሮዬ ላይ ተቀርጸዋል። እጄንና እግሬን ሲያጥበኝ፣ ቅባት ቀብቶ ማሳጅ ሲያደርግልኝ አልረሳም።",
+      "subtitle_english": "His acts of care are engraved in my memory. I will never forget him washing my hands and feet, applying cream, and gently massaging them.",
+      "visual_prompt": "A tender respectful caregiving moment in an Ethiopian family home, a father gently washing his young daughter's hands and feet with warm water and caring for them afterward, child relaxed and secure, emphasis on parental tenderness, warm cinematic lighting.",
+      "motion_prompt": "Very gentle hand movements with a slow intimate camera push, avoiding sudden motion.",
+      "music_mood": "deeply tender, warm, emotional"
+    },
+
+    {
+      "id": "shot_08",
+      "duration_seconds": 9,
+      "narration_amharic": "ለኔ ከባዱ ጊዜ አባቴ ለፊልድ ሥራ ሲሄድ ነበር። አንዳንዴ አልጋዬ ውስጥ ተደብቄ አለቅስ ነበር።",
+      "subtitle_english": "The hardest times for me were when my father left for fieldwork. Sometimes I would hide in my bed and cry.",
+      "visual_prompt": "A young Ethiopian girl lying quietly in bed while her father is away for fieldwork, missing him deeply, restrained sadness, modest family bedroom, soft evening light, emotional cinematic realism.",
+      "motion_prompt": "Nearly still composition with a very slow camera movement toward the child.",
+      "music_mood": "soft, lonely, reflective"
+    },
+
+    {
+      "id": "shot_09",
+      "duration_seconds": 7,
+      "narration_amharic": "ሲመለስ ግን የሚሰማኝ ደስታ፣ ዓለም የኔ ብቻ የሆነች ነበር የሚመስለኝ።",
+      "subtitle_english": "But when he returned, I was so happy that it felt as if the whole world were mine.",
+      "visual_prompt": "An Ethiopian father returning home from fieldwork as his young daughter joyfully welcomes him, genuine excitement and emotional reunion, father smiling warmly, warm late-afternoon light, cinematic realism.",
+      "motion_prompt": "Daughter moves happily toward her father as he welcomes her, with a gentle camera follow.",
+      "music_mood": "hopeful, joyful, warm"
+    },
+
+    {
+      "id": "shot_10",
+      "duration_seconds": 5,
+      "narration_amharic": "ለኔ አባቴ ማለት ሁሉ ነገሬ ነው።",
+      "subtitle_english": "For me, my father means everything.",
+      "visual_prompt": "A simple quiet father-daughter moment expressing deep trust, safety and affection, Ethiopian family setting, emotionally authentic rather than posed, warm golden light, nostalgic cinematic realism.",
+      "motion_prompt": "Very slow camera push toward father and daughter with a short reflective pause afterward.",
+      "music_mood": "reflective, loving, emotional"
+    },
+
+    {
+      "id": "shot_11",
+      "duration_seconds": 12,
+      "narration_amharic": "በእኛ ማህበረሰብ ብዙ ጊዜ ትኩረት የሚሰጠው ለእናት ፍቅርና እንክብካቤ ነው። ለኔ ግን፣ ይህን ሁሉ ከአባቴ ነበር ያገኘሁት።",
+      "subtitle_english": "In our community, we often focus on a mother's love and care. But for me, I found all of that in my father.",
+      "visual_prompt": "Final warm cinematic image of an Ethiopian father and daughter together, communicating safety, tenderness and lifelong connection, calm and emotionally authentic, golden natural light, realistic nostalgic visual style suitable for a closing scene.",
+      "motion_prompt": "Slow gentle pull-back followed by a soft fade toward the ending.",
+      "music_mood": "warm, resolved, tender"
+    },
+    {"id": "end_card",
+  "duration_seconds": 4,
+  "narration_amharic": "ይህ ፊልም በጄኔሬቲቭ ኤአይ እገዛ የተሰራ ነው።",
+  "subtitle_english": "This film was created with the assistance of generative AI.",
+  "visual_type": "ai_disclosure",
+  "on_screen_text": "This film was created with the assistance of generative AI.",
+  "motion_prompt": "Static end card with a gentle fade in and fade out.",
+  "music_mood": "soft closing fade"
+}
+  ]
+}
