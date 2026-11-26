@@ -105,3 +105,7 @@ outputs/audio/              outputs/keyframes/
                       |
                       v
               Final film output
+
+One-command pipeline
+After the required generated/cached production assets are available, the complete deterministic production pipeline can be run with:Final film:
+C:\Personal\TRP2\Week 0\week0-film-production\outputs\final\father_care_16x9.mp4
